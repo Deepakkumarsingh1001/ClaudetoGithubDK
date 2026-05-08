@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo *)",
+      "Bash(gh config *)",
+      "Bash(gh api *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git checkout *)",
+      "Bash(gh pr *)",
+      "Bash(python *)",
+      "Bash(git -C C:/Users/deepak.m.kumar/Documents/GitHub/DeepakTest remote -v)",
+      "Bash(git -C C:/Users/deepak.m.kumar/Documents/GitHub/DeepakTest status)",
+      "Bash(git -C C:/Users/deepak.m.kumar/Documents/GitHub/DeepakTest branch -a)"
+    ]
+  }
+}
